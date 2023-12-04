@@ -1,6 +1,6 @@
-<h2> Hi, I'm Nic van Dessel! <img src="./images/jimhello.gif" width="50"></h2>
+<h2> Hi, I'm Nic van Dessel! </h2>
 <img align='right' src="./images/typingcat.gif" width="230">
-<p><em>Director of Engineering (Unity) at <a href="https://www.mothandflamevr.com/">Moth + Flame </a><img src="./images/m+f-logo2.png?raw=true" width="30">
+<p><em>Lead Unity Engineer at <a href="https://luminopia.com/">Luminopia </a>
 </em></p>
 
 [![Linkedin: nic-van-dessel](https://img.shields.io/badge/-nicvandessel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nic-van-dessel/)](https://www.linkedin.com/in/nic-van-dessel/)
