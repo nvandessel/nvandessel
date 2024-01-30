@@ -12,4 +12,4 @@
 <img src="./images/csharp.png?raw=true" alt="csharp" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
 <img src="./images/rider_logo_300x300.png?raw=true" alt="rider" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
 <img src="./images/git.png?raw=true" alt="git" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/jira.png?raw=true" alt="jira" width="50" height="50"/></p>
+<img src="./images/notion.png?raw=true" alt="notion" width="50" height="50"/></p>
