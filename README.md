@@ -8,15 +8,17 @@
 <img src="https://komarev.com/ghpvc/?username=nvandessel" alt="nvandessel"/>
 
 Things I use:
-<p align="left"><img src="./images/unity_logo_new.png?raw=true" alt="unity" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/csharp.png?raw=true" alt="csharp" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/rider.png?raw=true" alt="rider" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/git.png?raw=true" alt="git" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/notion.png?raw=true" alt="notion" width="50" height="50"/></p>
+<p align="left">
+<img src="./images/unity_logo_new.png" alt="unity" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/csharp.png" alt="csharp" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/rider.png" alt="rider" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/git.png" alt="git" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/notion.png" alt="notion" height="50"/>&nbsp;&nbsp;&nbsp;
+</p>
 
 Things I'm learning:
 <p align="left">
-<img src="./images/nvim.png?raw=true" alt="nvim" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/rust.png?raw=true" alt="rust" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/docker.png?raw=true" alt="docker" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/nvim.png" alt="nvim" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/rust.png" alt="rust" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/docker.png" alt="docker" height="50"/>&nbsp;&nbsp;&nbsp;
 </p>
