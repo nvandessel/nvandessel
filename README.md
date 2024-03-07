@@ -7,9 +7,16 @@
 [![GitHub nvandessel](https://img.shields.io/github/followers/nvandessel?label=follow&style=social)](https://github.com/nvandessel)
 <img src="https://komarev.com/ghpvc/?username=nvandessel" alt="nvandessel"/>
 
-
+Things I use:
 <p align="left"><img src="./images/unity_logo_new.png?raw=true" alt="unity" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
 <img src="./images/csharp.png?raw=true" alt="csharp" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/rider_logo_300x300.png?raw=true" alt="rider" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/rider.png?raw=true" alt="rider" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
 <img src="./images/git.png?raw=true" alt="git" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
 <img src="./images/notion.png?raw=true" alt="notion" width="50" height="50"/></p>
+
+Things I'm learning:
+<p align="left">
+<img src="./images/nvim.png?raw=true" alt="nvim" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/rust.png?raw=true" alt="rust" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/docker.png?raw=true" alt="docker" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+</p>
