@@ -7,7 +7,7 @@
 
 <img align='right' src="./images/typingcat.gif" width="230">
 <p><em>Lead Unity Engineer at <br>
-<a href="https://luminopia.com/"><img src="./images/luminopia.png" alt="luminopia" height="30" align="left"/>&nbsp; Luminopia</a>
+<a href="https://luminopia.com/"><img src="./images/luminopia.png" alt="luminopia" height="30" align="left"/> Luminopia</a>
 </em></p>
 
 Things I use:
