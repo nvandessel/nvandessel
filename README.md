@@ -9,8 +9,8 @@
 
 Looking for my next role!
 
-<p><em>Ex-Lead Unity Engineer at <a href="https://luminopia.com/">Luminopia</a><img src="./images/luminopia.png" alt="luminopia" height="30"/> 
-<p><em>Ex-Director of Engineering (Unity) at <a href="https://www.mothandflamevr.com/">Moth + Flame </a><img src="./images/m+f-logo2.png?raw=true" width="30">
+<p><em>Former Lead Unity Engineer at <a href="https://luminopia.com/">Luminopia</a><img src="./images/luminopia.png" alt="luminopia" height="30"/> 
+<p><em>Former Director of Engineering (Unity) at <a href="https://www.mothandflamevr.com/">Moth + Flame </a><img src="./images/m+f-logo2.png?raw=true" width="30">
 </em></p>
 
 &nbsp;&nbsp;&nbsp;
