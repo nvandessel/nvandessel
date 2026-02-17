@@ -14,7 +14,7 @@
 
 ### What I'm Building
 
-**[🧠 feedback-loop](https://github.com/nvandessel/feedback-loop)** 
+**[🧠 floop](https://github.com/nvandessel/floop)** 
 * Brain-inspired memory system using spreading activation and neural concepts.
 * Built for Claude workflows, expanding to broader agent contexts.
 * Wrriten in Go.
