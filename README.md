@@ -19,7 +19,12 @@
 * Built for Claude workflows, expanding to broader agent contexts.
 * Wrriten in Go.
 
-**[🔗 go4dot](https://github.com/nvandessel/go4dot)**  
+**[🌴 frond](https://github.com/nvandessel/frond)**
+* Agent-first CLI for managing stacked PRs with DAG dependencies on GitHub.
+* Single binary, zero config, JSON output for agent integration.
+* Written in Go.
+
+**[🔗 go4dot](https://github.com/nvandessel/go4dot)**
 * Cross-platform dotfile manager in Go with interactive setup, platform detection, and dependency management.
 * Hobby project for making distro hopping easier to get up and running quickly.
 
