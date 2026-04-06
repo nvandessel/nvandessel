@@ -6,67 +6,65 @@
 
 <img align='right' src="./images/typingcat.gif" width="230">
 
-<p><em><img src="./images/managexr.png" alt="managexr" height="30"/>  Lead Unity Engineer at <a href="https://www.managexr.com/">ManageXR</a> building MDM for XR Devices</em></p>
-<p><em><img src="./images/luminopia.png" alt="luminopia" height="30"/>  Former Lead Unity Engineer at <a href="https://luminopia.com/">Luminopia</a></em></p>
-<p><em><img src="./images/m+f-logo2.png?raw=true" width="30"> Former Director of Engineering (Unity) at <a href="https://www.mothandflamevr.com/">Moth + Flame </a></em></p>
+<p><em>C#/Unity/XR engineer with 10+ years across headsets from the DK2 to enterprise MDM. Building open-source developer tools on the side in Go and Rust.</em></p>
 
 &nbsp;&nbsp;&nbsp;
 
 ### What I'm Building
 
-**[🧠 floop](https://github.com/nvandessel/floop)** 
-* Brain-inspired memory system using spreading activation and neural concepts.
-* Built for Claude workflows, expanding to broader agent contexts.
-* Wrriten in Go.
+**[🧠 floop](https://github.com/nvandessel/floop)** — Spreading activation memory for AI coding agents.
 
-**[🌴 frond](https://github.com/nvandessel/frond)**
-* Agent-first CLI for managing stacked PRs with DAG dependencies on GitHub.
-* Single binary, zero config, JSON output for agent integration.
-* Written in Go.
+**[⚡ sproink](https://github.com/nvandessel/sproink)** — Rust spreading activation engine with C FFI, extracted from floop.
 
-**[🔗 go4dot](https://github.com/nvandessel/go4dot)**
-* Cross-platform dotfile manager in Go with interactive setup, platform detection, and dependency management.
-* Hobby project for making distro hopping easier to get up and running quickly.
+**[🌴 frond](https://github.com/nvandessel/frond)** — Agent-first CLI for managing stacked PRs with DAG dependencies.
 
-**[🌉 claude-unity-bridge](https://github.com/ManageXR/claude-unity-bridge)** *(via ManageXR)*  
-* Unity integration for AI agents.
-* Connect Unity runtime with Claude.
-* Focus on multi-agent and highly-parallel workflows.
-* Python and C#.
+### Also Working On
 
-**🎴 tablecloth** 
-* A multiplayer card game system built to support a wide variety of games.
-* Hobby project built with Unity and C#.
+**[📊 floop-bench](https://github.com/nvandessel/floop-bench)** — Open benchmark measuring floop's impact via SWE-bench Verified.
 
+**[🧬 hippofloop](https://github.com/nvandessel/hippofloop)** — Distilled local model for floop consolidation.
 
-### How I'm working
+**[🤝 team-up](https://github.com/nvandessel/team-up)** — Claude Code plugin for multi-agent team orchestration.
 
-Terminal-first development with tmux and nvim.
-Enjoying [agent-deck](https://github.com/asheshgoplani/agent-deck).
-Building with AI agents using parallel workflows and sub-agent orchestration.  
+**[🔗 lancedb-go](https://github.com/lancedb/lancedb-go)** — Contributor to the LanceDB Go SDK.
 
-### Tech Stack
+### Expertise
 
 <p align="left">
-<img src="./images/unity_logo_new.png" alt="unity" height="50"/>&nbsp;&nbsp;&nbsp;
 <img src="./images/csharp.png" alt="csharp" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/git.png" alt="git" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/nvim.png" alt="nvim" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/unity_logo_new.png" alt="unity" height="50"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-### Exploring
+VContainer · NUnit · Moq · Rider · GitHub Actions
+
+### Building With
 
 <p align="left">
-<img src="./images/rust.png" alt="rust" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/zig.png" alt="zig" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/docker.png" alt="docker" height="50"/>&nbsp;&nbsp;&nbsp;
 <img src="./images/go.png" alt="go" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/rust.png" alt="rust" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/python.png" alt="python" height="50"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-### Things I've contributed to
+### How I'm Working
+
+<p align="left">
+<img src="./images/tmux.png" alt="tmux" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/nvim.png" alt="neovim" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/lazygit.png" alt="lazygit" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/claude.png" alt="claude code" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/agentdeck.svg" alt="agent-deck" height="50"/>&nbsp;&nbsp;&nbsp;
+</p>
+
+floop · frond
+
+### Things I've Contributed To
 
 - [game-ci/unity-test-runner](https://github.com/game-ci/unity-test-runner)
 - [VRMADA/ultimatexr-unity](https://github.com/VRMADA/ultimatexr-unity)
+- [lancedb/lancedb-go](https://github.com/lancedb/lancedb-go)
+- [nvandessel/hnsw](https://github.com/nvandessel/hnsw)
+- [nvandessel/go4dot](https://github.com/nvandessel/go4dot)
+- [ManageXR/claude-unity-bridge](https://github.com/ManageXR/claude-unity-bridge)
 
 ---
 
