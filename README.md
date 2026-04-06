@@ -56,12 +56,10 @@ VContainer · NUnit · Moq · Rider · GitHub Actions
 <td align="center"><a href="https://github.com/tmux/tmux"><img src="./images/tmux.png" alt="tmux" height="50"/><br><sub>tmux</sub></a></td>
 <td align="center"><a href="https://neovim.io/"><img src="./images/nvim.png" alt="neovim" height="50"/><br><sub>Neovim</sub></a></td>
 <td align="center"><a href="https://github.com/jesseduffield/lazygit"><img src="./images/lazygit.png" alt="lazygit" height="50"/><br><sub>lazygit</sub></a></td>
-<td align="center"><a href="https://claude.ai/claude-code"><img src="./images/claude.png" alt="claude code" height="50"/><br><sub>Claude Code</sub></a></td>
+<td align="center"><a href="https://code.claude.com/docs/en/overview"><img src="./images/claude.png" alt="claude code" height="50"/><br><sub>Claude Code</sub></a></td>
 <td align="center"><a href="https://github.com/asheshgoplani/agent-deck"><img src="./images/agent-deck.svg" alt="agent-deck" height="50"/><br><sub>agent-deck</sub></a></td>
 </tr>
 </table>
-
-[floop](https://github.com/nvandessel/floop) · [frond](https://github.com/nvandessel/frond)
 
 ### Things I've Contributed To
 
