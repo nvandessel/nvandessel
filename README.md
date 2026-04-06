@@ -52,7 +52,7 @@ VContainer · NUnit · Moq · Rider · GitHub Actions
 <img src="./images/nvim.png" alt="neovim" height="50"/>&nbsp;&nbsp;&nbsp;
 <img src="./images/lazygit.png" alt="lazygit" height="50"/>&nbsp;&nbsp;&nbsp;
 <img src="./images/claude.png" alt="claude code" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/agentdeck.svg" alt="agent-deck" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="./images/agent-deck.svg" alt="agent-deck" height="50"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 floop · frond
