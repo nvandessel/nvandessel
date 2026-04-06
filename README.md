@@ -30,32 +30,38 @@
 
 ### Expertise
 
-<p align="left">
-<img src="./images/csharp.png" alt="csharp" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/unity_logo_new.png" alt="unity" height="50"/>&nbsp;&nbsp;&nbsp;
-</p>
+<table>
+<tr>
+<td align="center"><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./images/csharp.png" alt="csharp" height="50"/><br><sub>C#</sub></a></td>
+<td align="center"><a href="https://unity.com/"><img src="./images/unity_logo_new.png" alt="unity" height="50"/><br><sub>Unity</sub></a></td>
+</tr>
+</table>
 
 VContainer · NUnit · Moq · Rider · GitHub Actions
 
 ### Building With
 
-<p align="left">
-<img src="./images/go.png" alt="go" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/rust.png" alt="rust" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/python.png" alt="python" height="50"/>&nbsp;&nbsp;&nbsp;
-</p>
+<table>
+<tr>
+<td align="center"><a href="https://go.dev/"><img src="./images/golang.png" alt="go" height="50"/><br><sub>Go</sub></a></td>
+<td align="center"><a href="https://www.rust-lang.org/"><img src="./images/rust.png" alt="rust" height="50"/><br><sub>Rust</sub></a></td>
+<td align="center"><a href="https://www.python.org/"><img src="./images/python.png" alt="python" height="50"/><br><sub>Python</sub></a></td>
+</tr>
+</table>
 
 ### How I'm Working
 
-<p align="left">
-<img src="./images/tmux.png" alt="tmux" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/nvim.png" alt="neovim" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/lazygit.png" alt="lazygit" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/claude.png" alt="claude code" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="./images/agent-deck.svg" alt="agent-deck" height="50"/>&nbsp;&nbsp;&nbsp;
-</p>
+<table>
+<tr>
+<td align="center"><a href="https://github.com/tmux/tmux"><img src="./images/tmux.png" alt="tmux" height="50"/><br><sub>tmux</sub></a></td>
+<td align="center"><a href="https://neovim.io/"><img src="./images/nvim.png" alt="neovim" height="50"/><br><sub>Neovim</sub></a></td>
+<td align="center"><a href="https://github.com/jesseduffield/lazygit"><img src="./images/lazygit.png" alt="lazygit" height="50"/><br><sub>lazygit</sub></a></td>
+<td align="center"><a href="https://claude.ai/claude-code"><img src="./images/claude.png" alt="claude code" height="50"/><br><sub>Claude Code</sub></a></td>
+<td align="center"><a href="https://github.com/asheshgoplani/agent-deck"><img src="./images/agent-deck.svg" alt="agent-deck" height="50"/><br><sub>agent-deck</sub></a></td>
+</tr>
+</table>
 
-floop · frond
+[floop](https://github.com/nvandessel/floop) · [frond](https://github.com/nvandessel/frond)
 
 ### Things I've Contributed To
 
