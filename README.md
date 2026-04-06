@@ -6,10 +6,6 @@
 
 <img align='right' src="./images/typingcat.gif" width="230">
 
-<p><em>C#/Unity/XR engineer with 10+ years across headsets from the DK2 to enterprise MDM. Building open-source developer tools on the side in Go and Rust.</em></p>
-
-&nbsp;&nbsp;&nbsp;
-
 ### What I'm Building
 
 **[🧠 floop](https://github.com/nvandessel/floop)** — Spreading activation memory for AI coding agents.
